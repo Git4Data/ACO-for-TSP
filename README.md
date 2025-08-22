@@ -1,0 +1,6 @@
+Se desarrolló un proyecto de Ciencia de Datos y Machine Learning donde se implementó desde cero el algoritmo Ant Colony Optimization (ACO) en Python para resolver el problema del Viajante de Comercio (TSP). Se construyó la matriz de distancias a partir de coordenadas geográficas, se compararon los resultados con un Algoritmo Genético y se generó una visualización interactiva en Folium que permitió analizar y comprender la ruta óptima encontrada.
+
+•Desarrollé desde cero el algoritmo Ant Colony Optimization (ACO) en Python para resolver el problema del Viajante de Comercio (TSP), optimizando la ruta más corta entre 25 ciudades a partir de sus coordenadas geográficas.
+•Construí la matriz de distancias mediante cálculos geográficos precisos, lo que permitió modelar adecuadamente el problema y garantizar resultados confiables en la búsqueda de la ruta óptima.
+•Comparé el desempeño de ACO con un Algoritmo Genético, evaluando la calidad de las soluciones y evidenciando fortalezas y diferencias en la eficiencia de ambos enfoques.
+•Visualicé las rutas obtenidas con la librería Folium, creando un mapa interactivo que permitió transformar los resultados del modelo en una herramienta funcional y comprensible para el análisis geográfico.
